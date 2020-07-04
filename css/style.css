@@ -120,7 +120,7 @@ body{
 	font-family: Montserrat;
 	font-size: 24px;
 	font-weight: 700;
-	line-height: 36px;
+	line-height: 40px;
 }
 /*HEADER NAV===================*/
 .nav {	
@@ -178,7 +178,7 @@ body{
 	height: 3px;
 	background-color: #fff;
 	position: absolute;
-	top: 0;
+	top: -6px;
 	right: 0;
 	left: 0;
 	bottom: 0;
