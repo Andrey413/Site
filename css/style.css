@@ -341,7 +341,7 @@ body{
 	transition: opacity .3s linear;	
 }
 .about__item__img {
-	width: 266px;
+	width: 260px;
 	background-color: #333;
 	display: block;
 }
